@@ -175,4 +175,4 @@ async def atik_bilgi(ctx):
 async def hello(ctx):
     await ctx.send(f'Selam! Ben {bot.user}')
 
-bot.run("MTM3NTUwOTUyOTEzMDk1ODg3OA.Gr4neE.DqL1wqq6l0nw5GxzKah5XRd-201s5IG1QOr9lo")
+bot.run("token")
