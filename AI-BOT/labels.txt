@@ -1,0 +1,11 @@
+0 Cam 
+1 Kağıt
+2 Organik
+3 Metal
+4 Plastik
+5 Elektronik 
+6 Tıbbi
+7 Ahşap
+8 Pil
+9 Tekstil
+10 Karışık
